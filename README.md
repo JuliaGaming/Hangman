@@ -1,6 +1,6 @@
 # Hangman in Julia
 
-In this repo you will find a collection of Minesweeper implementations in Julia.
+In this repo you will find a collection of Hangman implementations in Julia.
 
 ## Contributing
 
